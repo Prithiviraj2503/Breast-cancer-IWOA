@@ -1,20 +1,19 @@
 # Breast-cancer-IWOA
 
-***************************************************************************************User Manual**********************************************************************
+User Manual
 
 Project Title: Microarray based breast cancer prediction with improved whale optimization algorithm
 
-@Name: Priithiviraj K
-@Reg. No: 810017205062
-@College: University college of Engineering, BIT - Campus, Tiruchirappalli
-@Contact: prithivirajk2503@gmail.com
-@Date: 10-05-2021 
+Name: Priithiviraj K
+Reg. No: 810017205062
+College: University college of Engineering, BIT - Campus, Tiruchirappalli
+Contact: prithivirajk2503@gmail.com
+Date: 10-05-2021 
 
-@Guide: Dr. S. Sathya Devi
-@Desig: Assistant Professor
-@Dep: B. Tech., Information Technology
-@College: University college of Engineering, BIT - Campus, Tiruchirappalli
-=========================================================================================================================
+Guide: Dr. S. Sathya Devi
+Desig: Assistant Professor
+Dep: B. Tech., Information Technology
+College: University college of Engineering, BIT - Campus, Tiruchirappalli
 
 How to Execute the Project
 
