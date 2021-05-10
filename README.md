@@ -4,7 +4,7 @@ User Manual
 
 Project Title: Microarray based breast cancer prediction with improved whale optimization algorithm
 
-Name: Priithiviraj K
+Name: Prithiviraj K
 Reg. No: 810017205062
 College: University college of Engineering, BIT - Campus, Tiruchirappalli
 Contact: prithivirajk2503@gmail.com
